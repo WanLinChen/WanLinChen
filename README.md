@@ -44,7 +44,7 @@ stress classification, achieving 90.47% balanced accuracy
 
 ## 🎓 Education
 - **M.S. Bioengineering** — UC San Diego (GPA: 3.85)
-- **B.S. Engineering and System Science** — NTHU, Taiwan
+- **B.S. Engineering and System Science** — National Tsing Hua University, Taiwan (GPA: 3.76)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wan-lin-chen)
