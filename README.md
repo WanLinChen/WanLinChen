@@ -32,9 +32,9 @@ intersection of deep learning and clinical neuroscience.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [CTC Detection Pipeline](https://github.com/WanLinChen/Detection-of-CTC) | Automated fluorescence microscopy pipeline for Circulating Tumor Cell detection — 86% reduction in false negatives, deployed at Chang Gung Memorial Hospital | Python · OpenCV · Scikit-image |
-| [Heart Disease Prediction](https://github.com/WanLinChen/Heart-Disease-Prediction-) | ECG-based heart disease classifier with custom PCA and Naive Bayes from scratch | Python · NumPy · SciPy |
-| [Urethra Segmentation](https://github.com/WanLinChen/Urethra-segmentation-of-pelvic-floor-ultrasound-images-based-on-deep-learning) | UNet-based segmentation of urethra in ultrasound images | Python · PyTorch |
-| [TCGA Cancer Classification](https://github.com/WanLinChen/tcga-cancer-classification) | Deep learning pipeline for cancer classification on TCGA genomic data | Python · PyTorch |
+| [Urethra Segmentation](https://github.com/WanLinChen/Urethra-segmentation-of-pelvic-floor-ultrasound-images-based-on-deep-learning) | U-Net segmentation of urethra in pelvic floor ultrasound images to assist diagnosis of pelvic floor dysfunction | Python · TensorFlow · scikit-image |
+| [ECG Cardiac Disease Classification](https://github.com/WanLinChen/your-ecg-repo) | 12-lead ECG classification into 4 cardiac conditions using hand-crafted PCA and Gaussian Naive Bayes — Kaggle class competition | Python · NumPy · SciPy |
+| [SARS-CoV-2 Transcriptome Analysis](https://github.com/WanLinChen/your-covid-repo) | RNA-seq DEG analysis of COVID-19 whole-blood samples; identified circadian rhythm dysregulation and glucose metabolic upregulation | R · DESeq2 · clusterProfiler · STRING |
 
 ## 📄 Publication
 [**"Fine-Tuning Large EEG Model with Real-World Stress Data"**](https://arxiv.org/abs/2505.23042)  
