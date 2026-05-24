@@ -37,7 +37,7 @@ intersection of deep learning and clinical neuroscience.
 | [TCGA Cancer Classification](https://github.com/WanLinChen/tcga-cancer-classification) | Deep learning pipeline for cancer classification on TCGA genomic data | Python · PyTorch |
 
 ## 📄 Publication
-**"Fine-Tuning Large EEG Model with Real-World Stress Data(https://arxiv.org/abs/2505.23042)"**  
+[**"Fine-Tuning Large EEG Model with Real-World Stress Data"**](https://arxiv.org/abs/2505.23042)  
 arXiv:2505.23042 · 2025  
 Fine-tuning LaBraM foundation EEG model on real-world 
 stress classification, achieving 90.47% balanced accuracy
