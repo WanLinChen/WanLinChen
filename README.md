@@ -32,12 +32,13 @@ intersection of deep learning and clinical neuroscience.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [CTC Detection Pipeline](https://github.com/WanLinChen/Detection-of-CTC) | Automated fluorescence microscopy pipeline for Circulating Tumor Cell detection — 86% reduction in false negatives, deployed at Chang Gung Memorial Hospital | Python · OpenCV · Scikit-image |
-| [TCGA Cancer Classification](https://github.com/WanLinChen/tcga-cancer-classification) | Deep learning pipeline for cancer classification on TCGA genomic data | Python · PyTorch |
+
 | [Heart Disease Prediction](https://github.com/WanLinChen/Heart-Disease-Prediction-) | ECG-based heart disease classifier with custom PCA and Naive Bayes from scratch | Python · NumPy · SciPy |
 | [Urethra Segmentation](https://github.com/WanLinChen/Urethra-segmentation-of-pelvic-floor-ultrasound-images-based-on-deep-learning) | UNet-based segmentation of urethra in ultrasound images | Python · PyTorch |
+| [TCGA Cancer Classification](https://github.com/WanLinChen/tcga-cancer-classification) | Deep learning pipeline for cancer classification on TCGA genomic data | Python · PyTorch |
 
 ## 📄 Publication
-**"Fine-Tuning Large EEG Model with Real-World Stress Data"**  
+**"Fine-Tuning Large EEG Model with Real-World Stress Data"(https://arxiv.org/abs/2505.23042)**  
 arXiv:2505.23042 · 2025  
 Fine-tuning LaBraM foundation EEG model on real-world 
 stress classification, achieving 90.47% balanced accuracy
